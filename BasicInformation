@@ -32,3 +32,4 @@ BACKEND
 
 API
 1. https://openweathermap.org/ -- this website is used to take the API and use the service to display the Weather forecast.
+2. https://mailchimp.com/ ---  this is used to get API to save the emails in a server to create newletter login.
