@@ -1,0 +1,5 @@
+Install the below packages to the Project Folder
+
+1. npm init 
+2. node i express
+3.npm install body-parser
