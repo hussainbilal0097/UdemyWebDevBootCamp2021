@@ -45,3 +45,14 @@ Git Commands
 7. git checkout filename -- This is used to return back a file to the previous check point.
 8. git remote add origin (github repo url).git ----- this is first command to add files to github
 9 git push -u origin master -- this is used to push the files to the github repository.
+10. git rm --cached -r . ---- After adding the file we can undo the adding that we add using git add . command
+11. git clone (URL).git ---- it is used to clone the Project 
+12. git branch branchname ---- this command is used to create a new branch in the existing project so that in later point  of time we can commit the changes to main branch
+
+
+Git command to ignore certain files that we do not want to commit
+1. create a hidden file using command ------ touch .gitignore
+2. see the hidden file using the command--- ls -a
+3. open the .gitignore file and add all the filenames
+4. now you can commit the files and push the code to github
+
