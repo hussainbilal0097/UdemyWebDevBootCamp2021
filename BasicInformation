@@ -48,7 +48,9 @@ Git Commands
 10. git rm --cached -r . ---- After adding the file we can undo the adding that we add using git add . command
 11. git clone (URL).git ---- it is used to clone the Project 
 12. git branch branchname ---- this command is used to create a new branch in the existing project so that in later point  of time we can commit the changes to main branch
-
+13. git branch ---is used to find out all the branches in the current project alos inside which branch you are.
+14. git checkout branchname -- this command is used to select the newly created branch.
+15. git merge branchname and after this type :q! to save and quit --  this will merge the branch you created to the master branch
 
 Git command to ignore certain files that we do not want to commit
 1. create a hidden file using command ------ touch .gitignore
