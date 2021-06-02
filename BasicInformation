@@ -42,4 +42,6 @@ Git Commands
 4. git commit -m "Comments to log" ---- this is used to commit the changes and create checkpoint
 5. git log --  this is used to check the logs
 6. git diff filename -- this is used to check what all difference is done after the previous checkpoint
-7. git checkout filename -- This is used to return back a file to the previous check point
+7. git checkout filename -- This is used to return back a file to the previous check point.
+8. git remote add origin (github repo url).git ----- this is first command to add files to github
+9 git push -u origin master -- this is used to push the files to the github repository.
