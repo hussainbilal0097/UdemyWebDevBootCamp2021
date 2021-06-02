@@ -33,3 +33,13 @@ BACKEND
 API
 1. https://openweathermap.org/ -- this website is used to take the API and use the service to display the Weather forecast.
 2. https://mailchimp.com/ ---  this is used to get API to save the emails in a server to create newletter login.
+
+
+Git Commands
+1. git init ----- to initialize the git in a folder
+2. git status ----- used to check the status of the files that has been changed
+3. git add . ---- this is used before committng a file
+4. git commit -m "Comments to log" ---- this is used to commit the changes and create checkpoint
+5. git log --  this is used to check the logs
+6. git diff filename -- this is used to check what all difference is done after the previous checkpoint
+7. git checkout filename -- This is used to return back a file to the previous check point
